@@ -28,7 +28,7 @@ Using the provided `Makefile` (Recommended):
 make
 ```
 
-The build process uses aggressive optimization flags and a custom linker script (`quecto.ld`) to achieve the minimal size.
+The build process uses aggressive optimization flags and a custom linker script (`build.ld`) to achieve the minimal size.
 
 *   `-m32 -no-pie`: Traditional 32-bit memory layout.
 *   `-nostdlib`: Disables all standard libraries.
